@@ -16,7 +16,7 @@ Installation
 ------------
 
 To install |Flake8|, open an interactive shell and run:
-
+2311$Locky2311$Lock
 .. code::
 
     python<version> -m pip install flake8
